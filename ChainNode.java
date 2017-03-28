@@ -15,4 +15,12 @@ public V getValue(){
 public K getKey(){
   return key;
 }
+
+public ChainNode getNext(){
+  return next;
+}
+
+public void setNext(ChainNode<K,V> newNode){
+  next = newNode;
+}
 }
