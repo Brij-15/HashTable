@@ -1,5 +1,9 @@
 public class HashTable{
-public
+	public static void main(String [] args){
+
+
+
+  }
 
 
 
